@@ -1,0 +1,1 @@
+# ng-extended-module-generator
