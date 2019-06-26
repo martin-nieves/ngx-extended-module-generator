@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "label": "tsc",
+            "command": "tsc",
+            "type": "process",
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

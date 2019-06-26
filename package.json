@@ -1,0 +1,28 @@
+{
+  "name": "ng-extended-module",
+  "version": "1.0.0",
+  "description": "Multiple Angular CLI scaffolding based on the module name",
+  "main": "./src/main.ts",
+  "dependencies": {
+    "@types/node": "^12.0.10",
+    "@types/pluralize": "0.0.29",
+    "pluralize": "^8.0.0",
+    "tsc-watch": "^2.2.1",
+    "typescript": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "g:e:module": "tsc && node ./dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-nieves/ng-extended-module-generator.git"
+  },
+  "author": "martin-nieves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin-nieves/ng-extended-module-generator/issues"
+  },
+  "homepage": "https://github.com/martin-nieves/ng-extended-module-generator#readme"
+}
