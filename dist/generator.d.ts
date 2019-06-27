@@ -1,7 +1,7 @@
 export declare class Generator {
     private static args;
     private static run;
-    private static outputError;
-    private static outputSuccess;
+    private static output;
+    private static breakLineFormat;
     static createModule(): Promise<void>;
 }
