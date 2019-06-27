@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\src\\main.ts",
+            "program": "${workspaceFolder}\\src\\bin\\index.ts",
             "preLaunchTask": "tsc",
             "args": [
                 "modules/users"
