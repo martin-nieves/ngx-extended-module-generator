@@ -13,6 +13,7 @@ Run the following to install the package (Make sure you add the global flag -g t
 It needs to be executed inside an Angular project.
 
 A module name needs to be passed as an argument, followed by "ngex"
+
 Example usage from the command line:
 
 `ngex modules/users`
